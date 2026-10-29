@@ -1,0 +1,8 @@
+{
+  "name": "Illuminate3D - LifeStone Illuminate Bible Series: God Our Savior",
+  "description": "An interactive 3D game-like audiobook and exploration curriculum for LifeStone Ministries Illuminate Bible Series, Volume 1: God Our Savior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

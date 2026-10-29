@@ -1,0 +1,138 @@
+{
+  "curriculum": "Illuminate Bible Series, Volume 1: God Our Savior",
+  "publisher": "LifeStone Ministries",
+  "verificationDate": "2026-10-29",
+  "documents": [
+    {
+      "source": "1st-6th Grade Guide Book, Volume 1",
+      "abbreviation": "GB",
+      "targetTrack": "Investigator (3rd-6th Grade) & Teacher/Parent Reference"
+    },
+    {
+      "source": "Student Workbook 1st-2nd, Volume 1",
+      "abbreviation": "SW",
+      "targetTrack": "Explorer (1st-2nd Grade)"
+    }
+  ],
+  "mappings": [
+    {
+      "element": "Lesson Overview & Title",
+      "pdfSource": "GB pp. 8-9; SW p. 6",
+      "jsonField": "semesters[0].units[0].lessons[0].title",
+      "verbatimText": "The First Five Days of Creation",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Memory Verse",
+      "pdfSource": "GB p. 8; SW p. 6",
+      "jsonField": "semesters[0].units[0].lessons[0].memoryVerse",
+      "verbatimText": "In the beginning God created the heavens and the earth. (Genesis 1:1, NKJV)",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Day 1 Explorer Story (Sections: Nothing, Poof!, Shaping, Missing pieces)",
+      "pdfSource": "SW pp. 6-7",
+      "jsonField": "days[0].tracks.explorer.sections",
+      "verbatimText": "Nothing: Have you ever closed your eyes and imagined what it was like before anything was made? ... Poof!: God did not need a hammer, nails, or paint ... Shaping: On Day 2, God made the sky ... Missing pieces: On Day 4, God put the sun to shine by day ...",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Day 1 Investigator Narrative (A whole lot of nothing, Nothing to it!, Nothing but good)",
+      "pdfSource": "GB pp. 10-11",
+      "jsonField": "days[0].tracks.investigator.sections",
+      "verbatimText": "A whole lot of nothing: Have you ever wondered why this world is here? ... Nothing to it!: Human builders need lumber, bricks ... Nothing but good: At each phase of creation, God inspected His work and pronounced it 'good'...",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Day 1 Explorer Discussion & Review Questions",
+      "pdfSource": "SW p. 8",
+      "jsonField": "days[0].tracks.explorer.questions",
+      "verbatimText": "Who created the earth? What is one thing God created in the first five days? Each day, what did God call His work?",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Day 1 Investigator Review Q&A",
+      "pdfSource": "GB p. 11, Review Box",
+      "jsonField": "days[0].tracks.investigator.questions",
+      "verbatimText": "How did God create all that exists? What did God call His creation? How do we see God's goodness in creation?",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Day 1 Prayer Point & Christ Focus",
+      "pdfSource": "GB p. 10, Sidebars",
+      "jsonField": "days[0].prayerPoint / days[0].christFocus",
+      "verbatimText": "Prayer Point: Praise God for His great power and goodness. Christ Focus: John 1:1-3 teaches that Jesus Christ was there in the beginning and that all things were made through Him.",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Day 1 Do This Together / Focal Point Activity",
+      "pdfSource": "SW p. 9; GB p. 11",
+      "jsonField": "days[0].tracks.explorer.activityCard / days[0].tracks.investigator.focalPoint",
+      "verbatimText": "Explorer: Draw five squares, draw one thing God made in each. Investigator: The Sea in a Jar activity with supply list and steps.",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Day 1 Did You Know Callout",
+      "pdfSource": "GB p. 11, Fact Box",
+      "jsonField": "days[0].tracks.investigator.didYouKnow",
+      "verbatimText": "Speed of light fact: Light travels at 186,282 miles per second (299,792 km/s).",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Day 2 Investigate: Narrative & First Five Days",
+      "pdfSource": "GB pp. 12-13; SW pp. 10-11",
+      "jsonField": "days[1].tracks.investigator.sections",
+      "verbatimText": "What Happened in the Beginning, God Is Elohim, God Sustains, and the First Five Days Infographic.",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Day 2 Snowman Illustration Interactive",
+      "pdfSource": "GB p. 13",
+      "jsonField": "days[1].tracks.investigator.snowmanInteractive",
+      "verbatimText": "Did the snowflakes build this by chance? An intelligent designer is required.",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Day 3 Connect: Light Bulb & 3 Reasons",
+      "pdfSource": "GB pp. 14-15",
+      "jsonField": "days[2].tracks.investigator.sections",
+      "verbatimText": "It all starts with God (Thomas Edison light bulb account), Three reasons it matters who made the world, Wonder and worship.",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Day 3 Scripture Connections List",
+      "pdfSource": "GB p. 14",
+      "jsonField": "days[2].tracks.investigator.scriptureConnections",
+      "verbatimText": "Genesis 1:1-23, Psalm 33:6-9, Psalm 104:24-32, Colossians 1:15-17, John 1:1-5.",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Day 4 Focus: Doctrine - Jesus Was at Creation",
+      "pdfSource": "GB pp. 16-17",
+      "jsonField": "days[3].tracks.investigator.sections",
+      "verbatimText": "Doctrine: Jesus Was at Creation. One of a kind, Creation and redemption, Orange riddle sidebar, Alpha and Omega sidebar.",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Day 5 Illuminate: 12 Review Questions",
+      "pdfSource": "GB p. 19, Review",
+      "jsonField": "days[4].reviewQuiz",
+      "verbatimText": "All 12 Review questions from the Guide Book covering Days 1-5 of creation.",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Day 5 Apply Prompt: Take a Walk Outside",
+      "pdfSource": "GB p. 19; SW p. 15",
+      "jsonField": "days[4].applyPrompt",
+      "verbatimText": "Take a walk outside prompt: Record three wonders of creation seen, heard, and praise to God.",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    },
+    {
+      "element": "Day 5 Coloring Page & Clue to Lesson 2",
+      "pdfSource": "SW p. 14; GB p. 19",
+      "jsonField": "days[4].explorerColoring & destination.clueToNext",
+      "verbatimText": "Color Creation Shore with palette; Clue: 'On day six the Master Artist made His best work. Follow the path into the garden.'",
+      "verificationStatus": "VERIFIED_VERBATIM"
+    }
+  ]
+}

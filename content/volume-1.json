@@ -1,0 +1,738 @@
+{
+  "volume": "1",
+  "title": "God Our Savior",
+  "series": "Illuminate Bible Series",
+  "publisher": "LifeStone Ministries",
+  "heritageNote": "LifeStone Ministries — with a publishing legacy dating to 1902, formerly Union Gospel Press.",
+  "copyrightNotice": "Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved.",
+  "targetAges": "1st through 6th grade homeschool Bible curriculum",
+  "semesters": [
+    {
+      "id": 1,
+      "title": "The Need for a Savior",
+      "units": [
+        {
+          "id": 1,
+          "number": 1,
+          "title": "God Creates the World",
+          "lessons": [
+            {
+              "id": 1,
+              "week": 1,
+              "title": "The First Five Days of Creation",
+              "theme": "Creation ex nihilo and the goodness of God's workmanship",
+              "memoryVerse": {
+                "ref": "Genesis 1:1",
+                "text": "In the beginning God created the heavens and the earth.",
+                "phrases": [
+                  "In the beginning",
+                  "God created",
+                  "the heavens and the earth.",
+                  "Genesis 1:1"
+                ]
+              },
+              "destination": {
+                "id": "creation-shore",
+                "label": "Creation Shore",
+                "geographicSetting": "The pristine shore at dawn where ocean meets dry land under the celestial sky",
+                "cameras": ["surface", "underwater"],
+                "clueToNext": "On day six the Master Artist made His best work. Follow the path into the garden."
+              },
+              "days": [
+                {
+                  "day": 1,
+                  "badge": "Discover",
+                  "color": "#EF4444",
+                  "scripture": "Genesis 1:1-23",
+                  "scriptureTitle": "The First Five Days of Creation",
+                  "prayerPoint": "Praise God for His great power and goodness.",
+                  "christFocus": "John 1:1-3 teaches that Jesus Christ was there in the beginning and that all things were made through Him.",
+                  "tracks": {
+                    "explorer": {
+                      "storyTitle": "The Beginning of Everything",
+                      "sections": [
+                        {
+                          "id": "exp-d1-p1",
+                          "heading": "Nothing",
+                          "text": "Have you ever closed your eyes and imagined what it was like before anything was made? There were no trees, no animals, no stars, and no people. There was not even light or dark. There was just nothing at all! But God was there. God has always lived, even before time began."
+                        },
+                        {
+                          "id": "exp-d1-p2",
+                          "heading": "Poof!",
+                          "text": "God did not need a hammer, nails, or paint to make the world. God simply spoke! He said, 'Let there be light,' and poof—light was made! God separated the light from the darkness. He called the light Day, and the darkness He called Night. That was Day 1."
+                        },
+                        {
+                          "id": "exp-d1-p3",
+                          "heading": "Shaping",
+                          "text": "On Day 2, God made the sky. He separated the waters above from the waters below. On Day 3, God said, 'Let dry land appear!' The great oceans gathered, and dry ground emerged with green grass, tall trees, and plants of every kind. God saw that it was good."
+                        },
+                        {
+                          "id": "exp-d1-p4",
+                          "heading": "Missing pieces",
+                          "text": "On Day 4, God put the sun to shine by day and the moon and twinkling stars to shine by night. On Day 5, God filled the waters with splashing sea creatures and the air with singing birds. The earth was quickly filling up with wonder!"
+                        }
+                      ],
+                      "questions": [
+                        {
+                          "id": "exp-q1",
+                          "prompt": "Who created the earth?",
+                          "options": ["God", "The stars", "The animals"],
+                          "correctIndex": 0,
+                          "explanation": "Genesis 1:1 teaches us that in the beginning, God created the heavens and the earth."
+                        },
+                        {
+                          "id": "exp-q2",
+                          "prompt": "What is one thing God created in the first five days?",
+                          "options": ["Light, sun, seas, birds, and fish", "Smartphones", "Space rockets"],
+                          "correctIndex": 0,
+                          "explanation": "During the first five days, God made light, sky, land, plants, sun, moon, stars, sea creatures, and birds!"
+                        },
+                        {
+                          "id": "exp-q3",
+                          "prompt": "Each day, what did God call His work?",
+                          "options": ["Good", "Messy", "Boring"],
+                          "correctIndex": 0,
+                          "explanation": "Throughout Genesis 1, God looked at everything He had made and declared that it was good."
+                        }
+                      ],
+                      "activityCard": {
+                        "type": "Do This Together",
+                        "title": "Five Days of Wonders",
+                        "instructions": "Take a piece of paper and fold or draw five squares. In each square, draw one wonder God created on that day: 1: Light, 2: Sky, 3: Trees & Land, 4: Sun & Moon, 5: Fish & Birds!"
+                      }
+                    },
+                    "investigator": {
+                      "sections": [
+                        {
+                          "id": "inv-d1-p1",
+                          "heading": "A whole lot of nothing",
+                          "text": "Have you ever wondered why this world is here? Have you ever thought about where everything came from? Before anything in the universe existed, there was God. God did not begin when the universe began; He was already there. When God decided to create the universe, He started with nothing. In Latin, scholars call this creation ex nihilo—creating out of nothing at all."
+                        },
+                        {
+                          "id": "inv-d1-p2",
+                          "heading": "Nothing to it!",
+                          "text": "Human builders need lumber, bricks, nails, and blueprints to construct a home. But God did not need building materials. Genesis 1 tells us that God spoke, and by the power of His voice, matter, energy, time, and space burst into existence. Psalm 33:6 confirms: 'By the word of the Lord the heavens were made, and all the host of them by the breath of His mouth.'"
+                        },
+                        {
+                          "id": "inv-d1-p3",
+                          "heading": "Nothing but good",
+                          "text": "At each phase of creation, God inspected His work and pronounced it 'good' (tov in Hebrew). When God creates, He establishes order, beauty, function, and purpose. Everything God made reflects His eternal power, divine nature, and boundless goodness."
+                        }
+                      ],
+                      "questions": [
+                        {
+                          "id": "inv-q1",
+                          "prompt": "How did God create all that exists?",
+                          "options": [
+                            "By speaking His word out of nothing (ex nihilo)",
+                            "Using preexisting materials left over in space",
+                            "Through a slow accidental explosion"
+                          ],
+                          "correctIndex": 0,
+                          "explanation": "God spoke all of creation into existence out of nothing (ex nihilo) by the power of His word."
+                        },
+                        {
+                          "id": "inv-q2",
+                          "prompt": "What did God call His creation at each phase?",
+                          "options": ["Good", "Ordinary", "Unfinished"],
+                          "correctIndex": 0,
+                          "explanation": "God pronounced His creation 'good' (tov in Hebrew), showing its perfection, beauty, and purpose."
+                        },
+                        {
+                          "id": "inv-q3",
+                          "prompt": "How do we see God's goodness in creation?",
+                          "options": [
+                            "Through the beauty, order, and provision for living creatures",
+                            "Only through destructive storms",
+                            "We cannot see any goodness in the world"
+                          ],
+                          "correctIndex": 0,
+                          "explanation": "Creation displays God's care, order, and generous provision for every living thing."
+                        }
+                      ],
+                      "focalPoint": {
+                        "title": "The Sea in a Jar",
+                        "supplies": [
+                          "Clear glass jar or bottle with tight lid",
+                          "Water",
+                          "Blue food coloring",
+                          "Baby oil or cooking oil",
+                          "Small plastic fish, glitter, or tiny shells"
+                        ],
+                        "steps": [
+                          "Fill the jar approximately halfway with tap water.",
+                          "Add two drops of blue food coloring and gently stir until ocean-blue.",
+                          "Drop in your tiny sea creatures or shells to rest in the water.",
+                          "Pour vegetable oil or baby oil to fill the rest of the jar.",
+                          "Tightly secure the lid. Gently tilt the jar back and forth to see the ocean waves roll over the sea creatures God made on Day 5!"
+                        ]
+                      },
+                      "didYouKnow": "Light travels at an astounding 186,282 miles per second (299,792 kilometers per second)! When God spoke 'Let there be light,' energy surged across space faster than our minds can fathom."
+                    }
+                  },
+                  "ispy": [
+                    { "id": "sun", "label": "The Golden Sun", "creationDay": 4, "camera": "surface", "hint": "Look up in the morning sky" },
+                    { "id": "moon", "label": "Crescent Moon", "creationDay": 4, "camera": "surface", "hint": "Lingering in the western dawn" },
+                    { "id": "stars", "label": "Twinkling Stars", "creationDay": 4, "camera": "surface", "hint": "Sparkling above the mountains" },
+                    { "id": "clouds", "label": "Morning Clouds", "creationDay": 2, "camera": "surface", "hint": "Drifting in the open firmament" },
+                    { "id": "palm", "label": "Tropical Palm Tree", "creationDay": 3, "camera": "surface", "hint": "Growing tall on the dry sand" },
+                    { "id": "mountains", "label": "Mighty Mountains", "creationDay": 3, "camera": "surface", "hint": "Rising strong on the horizon" },
+                    { "id": "dryland", "label": "Sandy Dry Land", "creationDay": 3, "camera": "surface", "hint": "Gathered shore where land meets sea" },
+                    { "id": "dolphins", "label": "Two Leaping Dolphins", "creationDay": 5, "camera": "surface", "hint": "Jumping playfully in the morning waves" },
+                    { "id": "seabirds", "label": "Two Soaring Seabirds", "creationDay": 5, "camera": "surface", "hint": "Gliding on the morning sea breeze" },
+                    { "id": "turtle", "label": "Gliding Sea Turtle", "creationDay": 5, "camera": "underwater", "hint": "Swimming gently past the reef" },
+                    { "id": "jellyfish", "label": "Luminous Jellyfish", "creationDay": 5, "camera": "underwater", "hint": "Pulsing soft light in the blue deep" },
+                    { "id": "stripedfish", "label": "Striped Reef Fish", "creationDay": 5, "camera": "underwater", "hint": "Darting between the coral pillars" },
+                    { "id": "spottedfish", "label": "Round Spotted Fish", "creationDay": 5, "camera": "underwater", "hint": "Floating near the sandy bottom" },
+                    { "id": "seahorses", "label": "Two Golden Seahorses", "creationDay": 5, "camera": "underwater", "hint": "Curling around tall green seaweed" },
+                    { "id": "starfish", "label": "Orange Starfish", "creationDay": 5, "camera": "underwater", "hint": "Resting on the ocean floor" },
+                    { "id": "shell", "label": "Pristine Spiral Shell", "creationDay": 5, "camera": "underwater", "hint": "Nestled in the white reef sand" },
+                    { "id": "coral", "label": "Vibrant Coral Reef", "creationDay": 5, "camera": "underwater", "hint": "Flourishing with color and life" },
+                    { "id": "seaweed", "label": "Swaying Seaweed", "creationDay": 3, "camera": "underwater", "hint": "Waving rhythmically with the tide" }
+                  ]
+                },
+                {
+                  "day": 2,
+                  "badge": "Investigate",
+                  "color": "#10B981",
+                  "scripture": "Psalm 33:6-9",
+                  "scriptureTitle": "By the Word of the Lord",
+                  "prayerPoint": "Praise God for His power and wisdom.",
+                  "christFocus": "Jesus Christ is God; all things were made and exist through the Word (John 1; Hebrews 1).",
+                  "tracks": {
+                    "explorer": {
+                      "storyTitle": "How God Built the World",
+                      "sections": [
+                        {
+                          "id": "exp-d2-p1",
+                          "heading": "God Spoke and It Was So",
+                          "text": "When you want to build a tower, you have to gather blocks with your hands. But Psalm 33:9 says of God: 'For He spoke, and it was done; He commanded, and it stood fast.' God did not need to break a sweat or borrow tools. His words have ultimate power."
+                        },
+                        {
+                          "id": "exp-d2-p2",
+                          "heading": "From Messy to Beautiful",
+                          "text": "Before God began shaping the earth, Genesis tells us it was without form and empty. Darkness covered the deep waters. But day by day, God brought light, gave the oceans boundaries, called forth land, and filled the empty skies and waters with creatures."
+                        }
+                      ],
+                      "questions": [
+                        {
+                          "id": "exp-d2-q1",
+                          "prompt": "How did God create the world?",
+                          "options": ["By speaking His powerful word", "With hammer and nails", "By buying parts"],
+                          "correctIndex": 0,
+                          "explanation": "Psalm 33:9 tells us: 'He spoke, and it was done.'"
+                        },
+                        {
+                          "id": "exp-d2-q2",
+                          "prompt": "What was the earth like before God shaped it?",
+                          "options": ["Without form and empty", "Full of busy cities", "A giant ice cube"],
+                          "correctIndex": 0,
+                          "explanation": "Before God brought order, the earth was formless, empty, and dark."
+                        },
+                        {
+                          "id": "exp-d2-q3",
+                          "prompt": "How long did God take to make the birds and fish?",
+                          "options": ["On Day 5, God spoke them into existence", "A hundred years", "Ten minutes"],
+                          "correctIndex": 0,
+                          "explanation": "On Day 5, God filled the sea with creatures and the sky with winged birds."
+                        }
+                      ],
+                      "activityCard": {
+                        "type": "Do This Together",
+                        "title": "Mini Aquarium Craft",
+                        "instructions": "Take a paper plate or clear plastic cup. Color the inside ocean blue. Glue tiny pebbles at the bottom, and draw swimming fish and sea turtles to celebrate God's ocean world!"
+                      }
+                    },
+                    "investigator": {
+                      "sections": [
+                        {
+                          "id": "inv-d2-p1",
+                          "heading": "What Happened in the Beginning",
+                          "text": "The opening words of Scripture anchor everything we believe. God did not emerge from nature; nature came from God. When God created the heavens and the earth, He acted as the supreme Architect and Sovereign King."
+                        },
+                        {
+                          "id": "inv-d2-p2",
+                          "heading": "God Is Elohim",
+                          "text": "In Genesis 1, the Hebrew name used for God is Elohim. In Hebrew grammar, '-im' is a plural ending. While God is one, this name reflects the majesty, fullness, and three-in-one nature of the Trinity: the Father who decrees, the Son through whom all things are made, and the Spirit who hovered over the face of the waters."
+                        },
+                        {
+                          "id": "inv-d2-p3",
+                          "heading": "God Sustains",
+                          "text": "Creation is not like a clock that God wound up and walked away from. God actively sustains every heartbeat, every planetary orbit, and every ocean tide. Hebrews 1:3 declares that Jesus upholds all things by the word of His power."
+                        }
+                      ],
+                      "questions": [
+                        {
+                          "id": "inv-d2-q1",
+                          "prompt": "What does the Hebrew name Elohim mean?",
+                          "options": [
+                            "The majestic plural name for the all-powerful Creator God",
+                            "A human king or ruler",
+                            "An army of angels"
+                          ],
+                          "correctIndex": 0,
+                          "explanation": "Elohim is the plural noun of majesty used for the one true God, pointing to the Trinity."
+                        },
+                        {
+                          "id": "inv-d2-q2",
+                          "prompt": "What did God create in the first five days?",
+                          "options": [
+                            "Light, sky, land, plants, sun, moon, stars, birds, and sea life",
+                            "Only rocks, dirt, and water",
+                            "Automobiles and digital computers"
+                          ],
+                          "correctIndex": 0,
+                          "explanation": "Days 1-5 established the environments (light, sky, seas/land) and populated them with lights, fish, and birds."
+                        },
+                        {
+                          "id": "inv-d2-q3",
+                          "prompt": "How does Scripture describe each creation day?",
+                          "options": [
+                            "The evening and the morning marked each distinct day",
+                            "Vague periods of unrecorded time",
+                            "A single instantaneous blink"
+                          ],
+                          "correctIndex": 0,
+                          "explanation": "Scripture repeatedly notes: 'So the evening and the morning were the first day... second day...' and so on."
+                        }
+                      ],
+                      "focalPoint": {
+                        "title": "The First Five Days Infographic",
+                        "supplies": ["Interactive 3D Orbs in Scene"],
+                        "steps": [
+                          "Tap the five floating glowing orbs in the 3D scene.",
+                          "Watch each orb light up to reveal Day 1 Light, Day 2 Firmament, Day 3 Land & Plants, Day 4 Sun & Moon, and Day 5 Birds & Fish."
+                        ]
+                      },
+                      "snowmanInteractive": {
+                        "prompt": "Did the snowflakes build this by chance?",
+                        "explanation": "When you see a snowman with a carrot nose and button eyes, you know someone made it on purpose. In the same way, the complex order of nature points to the Creator!"
+                      }
+                    }
+                  }
+                },
+                {
+                  "day": 3,
+                  "badge": "Connect",
+                  "color": "#F97316",
+                  "scripture": "Psalm 104:24-32",
+                  "scriptureTitle": "The Splendor of God's Works",
+                  "prayerPoint": "Think about God's amazing creation and praise Him.",
+                  "christFocus": "Christ is the Creator and Head over all creation (Colossians 1:15-17).",
+                  "tracks": {
+                    "explorer": {
+                      "storyTitle": "Praising the Great Artist",
+                      "sections": [
+                        {
+                          "id": "exp-d3-p1",
+                          "heading": "Singing to the Creator",
+                          "text": "Look around at the tall green palm fronds, the jumping dolphins, and the sparkling stars. God made them all because He is generous and good! Everything in creation gives glory to God, and we can join in praising Him with our voices."
+                        }
+                      ],
+                      "questions": [
+                        {
+                          "id": "exp-d3-q1",
+                          "prompt": "Why do you think God made creation?",
+                          "options": ["To show His glory, power, and love", "Because He was lonely", "By accident"],
+                          "correctIndex": 0,
+                          "explanation": "God created the world to display His glory, wisdom, and goodness to us!"
+                        },
+                        {
+                          "id": "exp-d3-q2",
+                          "prompt": "As God kept working across the days, what happened to the empty earth?",
+                          "options": ["God brought perfect order, beauty, and life", "It stayed dark and messy", "It got ruined"],
+                          "correctIndex": 0,
+                          "explanation": "God took what was empty and filled it with light, living creatures, and abundant life."
+                        }
+                      ],
+                      "activityCard": {
+                        "type": "Do This Together",
+                        "title": "Sing the Memory Verse!",
+                        "instructions": "Sing Genesis 1:1 to the tune of 'Twinkle, Twinkle Little Star' or 'London Bridge'! Use the in-app melody player below to practice your song."
+                      }
+                    },
+                    "investigator": {
+                      "sections": [
+                        {
+                          "id": "inv-d3-p1",
+                          "heading": "It All Starts with God",
+                          "text": "When Thomas Edison sought to invent a long-lasting electric light bulb, he tested thousands of different plant fibers and carbon filaments before finding one that worked. Edison was a brilliant inventor, but he had to use materials that God had already created. God alone creates from nothing!"
+                        },
+                        {
+                          "id": "inv-d3-p2",
+                          "heading": "Three Reasons It Matters Who Made the World",
+                          "text": "1. Identity: You are not an accident of nature; you are purposefully designed by God. 2. Purpose: Because God made everything, creation belongs to Him, and we are responsible to care for it. 3. Trust: The God who spoke the galaxies into being is strong enough to care for you every single day."
+                        },
+                        {
+                          "id": "inv-d3-p3",
+                          "heading": "Wonder and Worship",
+                          "text": "Psalm 104:24 sings: 'O Lord, how manifold are Your works! In wisdom You have made them all. The earth is full of Your possessions.' When we examine creation, our natural response should be worship."
+                        }
+                      ],
+                      "questions": [
+                        {
+                          "id": "inv-d3-q1",
+                          "prompt": "What does creation teach us about God?",
+                          "options": [
+                            "It reveals His eternal power, infinite wisdom, and goodness",
+                            "That He is far away and does not care",
+                            "That everything happened randomly without guidance"
+                          ],
+                          "correctIndex": 0,
+                          "explanation": "Romans 1:20 and Psalm 104 show that God's power and divine nature are clearly seen in creation."
+                        },
+                        {
+                          "id": "inv-d3-q2",
+                          "prompt": "Why does creation continue to hold together?",
+                          "options": [
+                            "God actively sustains and upholds all things by His word",
+                            "By sheer luck and coincidence",
+                            "Nature runs completely on its own without God"
+                          ],
+                          "correctIndex": 0,
+                          "explanation": "Scripture teaches that Christ holds all things together by His word of power."
+                        },
+                        {
+                          "id": "inv-d3-q3",
+                          "prompt": "How should we respond to God's magnificent creation?",
+                          "options": [
+                            "With wonder, thanksgiving, and joyful worship of the Creator",
+                            "With boredom and indifference",
+                            "By worshipping nature instead of God"
+                          ],
+                          "correctIndex": 0,
+                          "explanation": "We praise and worship the Creator, not the created things."
+                        }
+                      ],
+                      "scriptureConnections": [
+                        { "ref": "Genesis 1:1-23", "summary": "The historical account of the first five days of creation." },
+                        { "ref": "Psalm 33:6-9", "summary": "Praising the Lord whose spoken word established the universe." },
+                        { "ref": "Psalm 104:24-32", "summary": "Celebrating God's wisdom, providence, and care over every creature." },
+                        { "ref": "Colossians 1:15-17", "summary": "Christ is before all things, and in Him all things consist." },
+                        { "ref": "John 1:1-5", "summary": "All things were made through the Word, and without Him nothing was made." }
+                      ],
+                      "speciesCallout": "Scientists estimate there are over 8.7 million living species on Earth! Tap the fluttering butterfly swarm over the shore to marvel at God's variety."
+                    }
+                  }
+                },
+                {
+                  "day": 4,
+                  "badge": "Focus",
+                  "color": "#8B5CF6",
+                  "scripture": "John 1:1-5",
+                  "scriptureTitle": "The Eternal Word",
+                  "prayerPoint": "Thank God for the life we find in Christ (John 1:4).",
+                  "christFocus": "Jesus is both our Creator and our Savior from sin and death.",
+                  "tracks": {
+                    "explorer": {
+                      "storyTitle": "Jesus Was There!",
+                      "sections": [
+                        {
+                          "id": "exp-d4-p1",
+                          "heading": "The Light of the World",
+                          "text": "The Gospel of John tells us something wonderful: Jesus, the Word of God, was with God in the very beginning. Everything that was made was made through Him! Jesus is not only our Savior who loves us, but also our Mighty Creator."
+                        }
+                      ],
+                      "questions": [
+                        {
+                          "id": "exp-d4-q1",
+                          "prompt": "In today's Scripture, Jesus is called the Word. What was the Word doing when the world began?",
+                          "options": ["He was with God, creating all things!", "He was sleeping", "He did not exist yet"],
+                          "correctIndex": 0,
+                          "explanation": "John 1:3 says: 'All things were made through Him, and without Him nothing was made that was made.'"
+                        },
+                        {
+                          "id": "exp-d4-q2",
+                          "prompt": "If Jesus created the world, what does this tell us about Him?",
+                          "options": ["Jesus is truly God and worthy of our worship", "He was just a regular man", "He is an angel"],
+                          "correctIndex": 0,
+                          "explanation": "Jesus is fully God, the eternal Second Person of the Trinity."
+                        }
+                      ],
+                      "activityCard": {
+                        "type": "Do This Together",
+                        "title": "Name Beautiful Things",
+                        "instructions": "Tap things in the 3D scene that you find beautiful (dolphins, coral, sunset, stars). As you tap, release a praise bubble to thank Jesus for making them!"
+                      }
+                    },
+                    "investigator": {
+                      "sections": [
+                        {
+                          "id": "inv-d4-p1",
+                          "heading": "Doctrine: Jesus Was at Creation",
+                          "text": "One of the most foundational truths of the Christian faith is that Jesus Christ is eternal God. John 1:1-3 states: 'In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through Him, and without Him nothing was made that was made.'"
+                        },
+                        {
+                          "id": "inv-d4-p2",
+                          "heading": "Creation and Redemption",
+                          "text": "Why is it important that Jesus was the Creator? Because only the Creator had the power and authority to rescue His fallen creation. The hands that set the stars in their orbits are the very hands that were pierced on the cross for our redemption."
+                        },
+                        {
+                          "id": "inv-d4-p3",
+                          "heading": "The Alpha and Omega",
+                          "text": "In Revelation 22:13, Jesus announces: 'I am the Alpha and the Omega, the Beginning and the End, the First and the Last.' History began with Him, and all things will be restored under His eternal reign."
+                        }
+                      ],
+                      "questions": [
+                        {
+                          "id": "inv-d4-q1",
+                          "prompt": "Who is Jesus Christ according to John 1?",
+                          "options": [
+                            "The eternal Son of God, Creator of all things and our Savior",
+                            "A wise moral teacher and nothing more",
+                            "A created angel who helped God"
+                          ],
+                          "correctIndex": 0,
+                          "explanation": "John 1 teaches that Jesus is the eternal Word who was with God and was God."
+                        },
+                        {
+                          "id": "inv-d4-q2",
+                          "prompt": "How did God provide redemption for His creation?",
+                          "options": [
+                            "By sending Jesus Christ to die on the cross and rise again",
+                            "By erasing the world and starting over",
+                            "By ignoring human sin"
+                          ],
+                          "correctIndex": 0,
+                          "explanation": "Jesus, our Creator, came to Earth to bear our sins and bring us eternal life."
+                        },
+                        {
+                          "id": "inv-d4-q3",
+                          "prompt": "Who controls the universe today?",
+                          "options": [
+                            "The Lord God Almighty through Jesus Christ",
+                            "Blind chance and fate",
+                            "Uncontrolled chaotic forces"
+                          ],
+                          "correctIndex": 0,
+                          "explanation": "Christ reigns supreme over all creation, upholding it by His sovereign power."
+                        }
+                      ],
+                      "orangeRiddle": {
+                        "riddle": "What has a protective peel, juicy compartments inside, seeds ready to sprout new trees, and never needed a manufacturing plant to design?",
+                        "answer": "An orange! God engineered fruit with seeds inside so life would continue to reproduce after its own kind."
+                      }
+                    }
+                  }
+                },
+                {
+                  "day": 5,
+                  "badge": "Illuminate",
+                  "color": "#3B82F6",
+                  "scripture": "Psalm 148:1-6",
+                  "scriptureTitle": "Let All Creation Praise the Lord",
+                  "prayerPoint": "Thank God for creating you.",
+                  "christFocus": "When He calmed the storm (Matthew 8:26), Jesus spoke and creation responded.",
+                  "reviewQuiz": [
+                    {
+                      "number": 1,
+                      "question": "Who created the universe and everything in it?",
+                      "options": ["God (Elohim)", "Nature itself", "The stars"],
+                      "correctIndex": 0
+                    },
+                    {
+                      "number": 2,
+                      "question": "Out of what did God make the world?",
+                      "options": ["Out of nothing (ex nihilo)", "Out of recycled dust", "Out of ancient rocks"],
+                      "correctIndex": 0
+                    },
+                    {
+                      "number": 3,
+                      "question": "How did God bring each part of creation into existence?",
+                      "options": ["By speaking His word", "By building with tools", "By wishing on a star"],
+                      "correctIndex": 0
+                    },
+                    {
+                      "number": 4,
+                      "question": "What did God call His creation at each step?",
+                      "options": ["Good (tov)", "Fair", "Messy"],
+                      "correctIndex": 0
+                    },
+                    {
+                      "number": 5,
+                      "question": "What did God create on Day 1?",
+                      "options": ["Light, dividing day and night", "Trees and flowers", "Horses and cows"],
+                      "correctIndex": 0
+                    },
+                    {
+                      "number": 6,
+                      "question": "What did God create on Day 2?",
+                      "options": ["The firmament (sky and waters)", "The sun and moon", "Birds"],
+                      "correctIndex": 0
+                    },
+                    {
+                      "number": 7,
+                      "question": "What did God create on Day 3?",
+                      "options": ["Dry land, seas, plants, and trees", "Whales and sharks", "The stars"],
+                      "correctIndex": 0
+                    },
+                    {
+                      "number": 8,
+                      "question": "What did God create on Day 4?",
+                      "options": ["Sun, moon, and stars for signs and seasons", "Birds and fish", "Land animals"],
+                      "correctIndex": 0
+                    },
+                    {
+                      "number": 9,
+                      "question": "What did God create on Day 5?",
+                      "options": ["Sea creatures and winged birds", "Land animals and man", "Mountains and rivers"],
+                      "correctIndex": 0
+                    },
+                    {
+                      "number": 10,
+                      "question": "Who was present with God in the beginning making all things?",
+                      "options": ["Jesus Christ, the eternal Word", "Moses", "King David"],
+                      "correctIndex": 0
+                    },
+                    {
+                      "number": 11,
+                      "question": "Why did God create the universe?",
+                      "options": ["For His glory and to reveal His goodness", "Because He had nothing else to do", "By pure accident"],
+                      "correctIndex": 0
+                    },
+                    {
+                      "number": 12,
+                      "question": "What should be our response to God's creation?",
+                      "options": ["Praise, wonder, thanksgiving, and worship", "Ignore it", "Worship nature"],
+                      "correctIndex": 0
+                    }
+                  ],
+                  "applyPrompt": {
+                    "title": "Take a Walk Outside",
+                    "instruction": "Step outdoors with a parent or friend. Look around carefully and record three specific wonders of God's creation you see, hear, or feel (like birds chirping, wind in the trees, warm sunlight, or green grass).",
+                    "fields": [
+                      "What wonder did you see?",
+                      "What wonder did you hear?",
+                      "What praise will you give to God?"
+                    ]
+                  },
+                  "explorerColoring": {
+                    "title": "Color Creation Shore",
+                    "palette": [
+                      { "name": "Ocean Blue", "hex": "#0284C7" },
+                      { "name": "Sun Gold", "hex": "#F59E0B" },
+                      { "name": "Palm Green", "hex": "#10B981" },
+                      { "name": "Coral Rose", "hex": "#F43F5E" },
+                      { "name": "Sand Dune", "hex": "#FDE68A" },
+                      { "name": "Sky Dawn", "hex": "#38BDF8" }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "week": 2,
+              "title": "God Creates Adam and Eve",
+              "theme": "The crown of creation, made in the image of God",
+              "memoryVerse": { "ref": "Genesis 1:27", "text": "So God created man in His own image; in the image of God He created him; male and female He created them." },
+              "destination": { "id": "eden-sanctuary", "label": "Eden Sanctuary", "scene": "scenes/eden-sanctuary.glb", "cameras": ["garden"], "clueToNext": "A serpent whispers a deceptive lie near the forbidden tree." },
+              "isLocked": true
+            },
+            {
+              "id": 3,
+              "week": 3,
+              "title": "The Fall of Man",
+              "theme": "Temptation, disobedience, and the first promise of a Savior",
+              "memoryVerse": { "ref": "Genesis 3:15", "text": "And I will put enmity between you and the woman, and between your seed and her Seed; He shall bruise your head, and you shall bruise His heel." },
+              "destination": { "id": "tree-of-knowledge", "label": "The Tree of the Knowledge of Good and Evil", "scene": "scenes/tree-of-knowledge.glb", "cameras": ["grove"], "clueToNext": "Two brothers bring their offerings before the Lord." },
+              "isLocked": true
+            },
+            {
+              "id": 4,
+              "week": 4,
+              "title": "Cain and Abel",
+              "theme": "Worship from the heart and the tragic spread of sin",
+              "memoryVerse": { "ref": "1 John 3:11", "text": "For this is the message that you heard from the beginning, that we should love one another." },
+              "destination": { "id": "fertile-valleys", "label": "The Valleys of the First Brothers", "scene": "scenes/fertile-valleys.glb", "cameras": ["valley"], "clueToNext": "A faithful man walks with God while the world descends into corruption." },
+              "isLocked": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "title": "Judgment and the Covenant",
+          "lessons": [
+            { "id": 5, "week": 5, "title": "Noah Builds the Ark", "memoryVerse": { "ref": "Genesis 6:8", "text": "But Noah found grace in the eyes of the Lord." }, "destination": { "id": "ark-plains", "label": "Plains of Gopher Wood" }, "isLocked": true },
+            { "id": 6, "week": 6, "title": "The Great Flood", "memoryVerse": { "ref": "Genesis 7:16", "text": "So those that entered, male and female of all flesh, went in as God had commanded him; and the Lord shut him in." }, "destination": { "id": "flood-waters", "label": "The Boundless Waters" }, "isLocked": true },
+            { "id": 7, "week": 7, "title": "The Rainbow Covenant", "memoryVerse": { "ref": "Genesis 9:13", "text": "I set My rainbow in the cloud, and it shall be for the sign of the covenant between Me and the earth." }, "destination": { "id": "ararat-peak", "label": "Mount Ararat Heights" }, "isLocked": true },
+            { "id": 8, "week": 8, "title": "The Tower of Babel", "memoryVerse": { "ref": "Proverbs 16:18", "text": "Pride goes before destruction, and a haughty spirit before a fall." }, "destination": { "id": "shinar-plains", "label": "Plains of Shinar" }, "isLocked": true }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "title": "The Patriarchs of Promise",
+          "lessons": [
+            { "id": 9, "week": 9, "title": "The Call of Abraham", "memoryVerse": { "ref": "Genesis 12:2", "text": "I will make you a great nation; I will bless you and make your name great; and you shall be a blessing." }, "destination": { "id": "ur-to-haran", "label": "The Road from Ur" }, "isLocked": true },
+            { "id": 10, "week": 10, "title": "God's Covenant with Abraham", "memoryVerse": { "ref": "Genesis 15:6", "text": "And he believed in the Lord, and He accounted it to him for righteousness." }, "destination": { "id": "mamre-tents", "label": "The Oaks of Mamre" }, "isLocked": true },
+            { "id": 11, "week": 11, "title": "Isaac: The Child of Promise", "memoryVerse": { "ref": "Genesis 18:14", "text": "Is anything too hard for the Lord? At the appointed time I will return to you... and Sarah shall have a son." }, "destination": { "id": "beersheba-well", "label": "Wells of Beersheba" }, "isLocked": true },
+            { "id": 12, "week": 12, "title": "The Testing of Abraham on Moriah", "memoryVerse": { "ref": "Genesis 22:8", "text": "And Abraham said, 'My son, God will provide for Himself the lamb for a burnt offering.'" }, "destination": { "id": "moriah-ridge", "label": "Mount Moriah Ridge" }, "isLocked": true }
+          ]
+        },
+        {
+          "id": 4,
+          "number": 4,
+          "title": "Jacob and the Twelve Tribes",
+          "lessons": [
+            { "id": 13, "week": 13, "title": "Jacob and Esau", "memoryVerse": { "ref": "Hebrews 12:16", "text": "Lest there be any fornicator or profane person like Esau, who for one morsel of food sold his birthright." }, "destination": { "id": "isaac-tents", "label": "The Tents of Isaac" }, "isLocked": true },
+            { "id": 14, "week": 14, "title": "Jacob's Dream at Bethel", "memoryVerse": { "ref": "Genesis 28:15", "text": "Behold, I am with you and will keep you wherever you go, and will bring you back to this land." }, "destination": { "id": "bethel-stairway", "label": "Bethel Stone Altar" }, "isLocked": true },
+            { "id": 15, "week": 15, "title": "Joseph Sold into Egypt", "memoryVerse": { "ref": "Genesis 37:3", "text": "Now Israel loved Joseph more than all his children... Also he made him a tunic of many colors." }, "destination": { "id": "dothan-cistern", "label": "Dothan Pastures" }, "isLocked": true },
+            { "id": 16, "week": 16, "title": "Joseph Rises to Ruler of Egypt", "memoryVerse": { "ref": "Genesis 50:20", "text": "But as for you, you meant evil against me; but God meant it for good, in order to bring it about as it is this day, to save many people alive." }, "destination": { "id": "pharaoh-court", "label": "The Palace of Egypt" }, "isLocked": true }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Savior Revealed",
+      "units": [
+        {
+          "id": 5,
+          "number": 5,
+          "title": "The Promised Deliverer",
+          "lessons": [
+            { "id": 17, "week": 17, "title": "Moses in the Bulrushes", "memoryVerse": { "ref": "Exodus 2:10", "text": "And the child grew, and she brought him to Pharaoh's daughter, and he became her son." }, "destination": { "id": "nile-bulrushes", "label": "The Banks of the Nile" }, "isLocked": true },
+            { "id": 18, "week": 18, "title": "The Burning Bush", "memoryVerse": { "ref": "Exodus 3:14", "text": "And God said to Moses, 'I AM WHO I AM.' And He said, 'Thus you shall say to the children of Israel, \"I AM has sent me to you.\"'" }, "destination": { "id": "horeb-flame", "label": "Mount Horeb" }, "isLocked": true },
+            { "id": 19, "week": 19, "title": "The Passover Lamb", "memoryVerse": { "ref": "Exodus 12:13", "text": "Now the blood shall be a sign for you on the houses where you are. And when I see the blood, I will pass over you." }, "destination": { "id": "goshen-homes", "label": "The Homes of Goshen" }, "isLocked": true },
+            { "id": 20, "week": 20, "title": "Crossing the Red Sea", "memoryVerse": { "ref": "Exodus 14:14", "text": "The Lord will fight for you, and you shall hold your peace." }, "destination": { "id": "red-sea-corridor", "label": "The Parted Red Sea" }, "isLocked": true }
+          ]
+        },
+        {
+          "id": 6,
+          "number": 6,
+          "title": "God's Law and the Wilderness",
+          "lessons": [
+            { "id": 21, "week": 21, "title": "Manna and Water from the Rock", "memoryVerse": { "ref": "Exodus 16:4", "text": "Behold, I will rain bread from heaven for you." }, "destination": { "id": "wilderness-sin", "label": "The Wilderness of Sin" }, "isLocked": true },
+            { "id": 22, "week": 22, "title": "The Ten Commandments", "memoryVerse": { "ref": "Exodus 20:3", "text": "You shall have no other gods before Me." }, "destination": { "id": "sinai-summit", "label": "Mount Sinai Summit" }, "isLocked": true },
+            { "id": 23, "week": 23, "title": "The Tabernacle in the Wilderness", "memoryVerse": { "ref": "Exodus 25:8", "text": "And let them make Me a sanctuary, that I may dwell among them." }, "destination": { "id": "tabernacle-courtyard", "label": "The Holy Tabernacle" }, "isLocked": true },
+            { "id": 24, "week": 24, "title": "The Bronze Serpent", "memoryVerse": { "ref": "John 3:14-15", "text": "And as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, that whoever believes in Him should not perish but have eternal life." }, "destination": { "id": "desert-encampment", "label": "The Camp of Israel" }, "isLocked": true }
+          ]
+        },
+        {
+          "id": 7,
+          "number": 7,
+          "title": "Kings, Prophets, and the Promise of the Messiah",
+          "lessons": [
+            { "id": 25, "week": 25, "title": "David Anointed King", "memoryVerse": { "ref": "1 Samuel 16:7", "text": "For the Lord does not see as man sees; for man looks at the outward appearance, but the Lord looks at the heart." }, "destination": { "id": "bethlehem-hills", "label": "The Hills of Bethlehem" }, "isLocked": true },
+            { "id": 26, "week": 26, "title": "David and Goliath", "memoryVerse": { "ref": "1 Samuel 17:47", "text": "For the battle is the Lord's, and He will give you into our hands." }, "destination": { "id": "elah-brook", "label": "The Valley of Elah" }, "isLocked": true },
+            { "id": 27, "week": 27, "title": "The Lord is My Shepherd (Psalm 23)", "memoryVerse": { "ref": "Psalm 23:1", "text": "The Lord is my shepherd; I shall not want." }, "destination": { "id": "green-pastures", "label": "Still Waters and Green Pastures" }, "isLocked": true },
+            { "id": 28, "week": 28, "title": "Isaiah Prophesies the Suffering Servant", "memoryVerse": { "ref": "Isaiah 53:5", "text": "But He was wounded for our transgressions, He was bruised for our iniquities; the chastisement for our peace was upon Him, and by His stripes we are healed." }, "destination": { "id": "jerusalem-temple", "label": "The Courts of Jerusalem" }, "isLocked": true }
+          ]
+        },
+        {
+          "id": 8,
+          "number": 8,
+          "title": "The Savior Arrives",
+          "lessons": [
+            { "id": 29, "week": 29, "title": "The Birth of Jesus in Bethlehem", "memoryVerse": { "ref": "Luke 2:11", "text": "For there is born to you this day in the city of David a Savior, who is Christ the Lord." }, "destination": { "id": "bethlehem-manger", "label": "The Bethlehem Manger" }, "isLocked": true },
+            { "id": 30, "week": 30, "title": "Jesus Calms the Sea and Heals the Sick", "memoryVerse": { "ref": "Mark 4:41", "text": "And they feared exceedingly, and said to one another, 'Who can this be, that even the wind and the sea obey Him!'" }, "destination": { "id": "galilee-waters", "label": "The Sea of Galilee" }, "isLocked": true },
+            { "id": 31, "week": 31, "title": "The Crucifixion and Burial of Jesus", "memoryVerse": { "ref": "Romans 5:8", "text": "But God demonstrates His own love toward us, in that while we were still sinners, Christ died for us." }, "destination": { "id": "calvary-hill", "label": "Mount Calvary" }, "isLocked": true },
+            { "id": 32, "week": 32, "title": "The Resurrection and the Great Commission", "memoryVerse": { "ref": "Matthew 28:6", "text": "He is not here; for He is risen, as He said. Come, see the place where the Lord lay." }, "destination": { "id": "empty-tomb", "label": "The Garden Tomb at Dawn" }, "isLocked": true }
+          ]
+        }
+      ]
+    }
+  ]
+}
